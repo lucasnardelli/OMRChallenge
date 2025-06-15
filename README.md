@@ -8,6 +8,37 @@ O projeto tem como objetivo o desenvolvimento de protótipo para automatizar o p
 - Daniel Pereira Monteiro
 - Gabriel Sávio
 
+## Demostração da Solução
+
+
+#### 🤓 Youtube Videos
+
+<!-- YT LIST START -->
+[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/cfa04ee011f40f5650cf30132dff9978e810ed93/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=Y9e7IOETqfY&ab_channel=LucasSaar)
+        **[Apresentação do Projeto](https://www.youtube.com/watch?v=Y9e7IOETqfY&ab_channel=LucasSaar)**
+        <br /> *14 Nov 2023*
+
+ <br> <br/>
+ 
+[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/cfa04ee011f40f5650cf30132dff9978e810ed93/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=z2mVkziLjvI&ab_channel=LucasSaar)
+        **[Solução Google Colab](https://www.youtube.com/watch?v=z2mVkziLjvI&ab_channel=LucasSaar)**
+        <br /> *14 Nov 2023*
+
+ <br> <br/>
+ 
+[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/cfa04ee011f40f5650cf30132dff9978e810ed93/assets/0.png" align="left" width="200" />](https://www.youtube.com/shorts/cMPvLL2T7ws)
+        **[Solução Aplicativo Mobile](https://www.youtube.com/shorts/cMPvLL2T7ws)**
+        <br /> *14 Nov 2023*
+
+<br> <br/>
+ 
+[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/cfa04ee011f40f5650cf30132dff9978e810ed93/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=lnIQJr3Ktjw&ab_channel=LucasSaar)
+        **[Solução Desktop](https://www.youtube.com/watch?v=lnIQJr3Ktjw&ab_channel=LucasSaar)**
+        <br /> *14 Nov 2023*
+
+<br> <br/>
+
+
 ## Fluxo do Projeto
 
 Segue abaixo a descrição detalhada do fluxo do projeto:
@@ -279,36 +310,6 @@ Para a solução desktop foi desenvolvida uma interface utilzando python com a b
    
    Isso deve permitir que você execute o projeto em seu ambiente local. Certifique-se de ter todas as dependências instaladas e os modelos treinados disponíveis no diretório apropriado.
 
-
-## Demostração da Solução
-
-
-#### 🤓 Youtube Videos
-
-<!-- YT LIST START -->
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/cfa04ee011f40f5650cf30132dff9978e810ed93/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=Y9e7IOETqfY&ab_channel=LucasSaar)
-        **[Apresentação do Projeto](https://www.youtube.com/watch?v=Y9e7IOETqfY&ab_channel=LucasSaar)**
-        <br /> *14 Nov 2023*
-
- <br> <br/>
- 
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/cfa04ee011f40f5650cf30132dff9978e810ed93/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=z2mVkziLjvI&ab_channel=LucasSaar)
-        **[Solução Google Colab](https://www.youtube.com/watch?v=z2mVkziLjvI&ab_channel=LucasSaar)**
-        <br /> *14 Nov 2023*
-
- <br> <br/>
- 
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/cfa04ee011f40f5650cf30132dff9978e810ed93/assets/0.png" align="left" width="200" />](https://www.youtube.com/shorts/cMPvLL2T7ws)
-        **[Solução Aplicativo Mobile](https://www.youtube.com/shorts/cMPvLL2T7ws)**
-        <br /> *14 Nov 2023*
-
-<br> <br/>
- 
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/cfa04ee011f40f5650cf30132dff9978e810ed93/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=lnIQJr3Ktjw&ab_channel=LucasSaar)
-        **[Solução Desktop](https://www.youtube.com/watch?v=lnIQJr3Ktjw&ab_channel=LucasSaar)**
-        <br /> *14 Nov 2023*
-
-<br> <br/>
 
 ## 🤝 Colaboradores
 <table>
